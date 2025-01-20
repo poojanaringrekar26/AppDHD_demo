@@ -31,3 +31,18 @@ The **Daily Task Reminder Application** was developed to help users manage their
 
 - **Simple User Interface:**
   - Clean and responsive dashboard to view tasks.
+
+## Installation
+
+### Prerequisites
+
+Make sure you have the following installed:
+- 
+- 
+- 
+
+### Steps to Install
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/<your-username>/<your-repository>.git
