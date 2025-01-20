@@ -46,3 +46,44 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/<your-username>/<your-repository>.git
+
+2. **Navigate to the Project Directory:**
+
+3. **Install Dependencies:**
+
+4. **Set up the Database (if applicable):**
+
+5. **Start the Application:**
+
+## Technologies Used
+
+- **Frontend:**
+  - HTML
+  - CSS (TailwindCSS or Bootstrap)
+  - JavaScript (Next.js)
+  
+- **Backend:**
+  - Node.js (Express) 
+  
+- **Database:**
+  - PostgreSQL, MongoDB, or SQLite
+  
+- **Notification Services:**
+  - Firebase or Email Services (SendGrid/Mailgun)
+
+## Contributing
+
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`.
+3. Make your changes and commit them.
+4. Push to your branch: `git push origin feature/your-feature`.
+5. Open a pull request with a description of your changes.
+
+Please follow the code of conduct and the style guidelines outlined in the repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
